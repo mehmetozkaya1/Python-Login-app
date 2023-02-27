@@ -104,7 +104,7 @@ class App(Tk):
         self.connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="MeAy038073cbx",
+            password="*******",
             database="login-app"
         )
 
@@ -254,7 +254,7 @@ class App(Tk):
                 self.connection = mysql.connector.connect(
                     host="localhost",
                     user="root",
-                    password="MeAy038073cbx",
+                    password="******",
                     database="login-app"
                 )
 
@@ -289,7 +289,7 @@ class App(Tk):
                             self.connection = mysql.connector.connect(
                                 host="localhost",
                                 user="root",
-                                password="MeAy038073cbx",
+                                password="********",
                                 database="login-app"
                             )
 
@@ -367,7 +367,7 @@ class App(Tk):
                 self.connection = mysql.connector.connect(
                     host="localhost",
                     user="root",
-                    password="MeAy038073cbx",
+                    password="********",
                     database="login-app"
                 )
 
@@ -387,7 +387,7 @@ class App(Tk):
                 self.connection = mysql.connector.connect(
                     host="localhost",
                     user="root",
-                    password="MeAy038073cbx",
+                    password="***********",
                     database="login-app"
                 )
 
